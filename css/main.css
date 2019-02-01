@@ -1,0 +1,12 @@
+h1, h2, h3 {
+    font-family: 'Sue Ellen Francisco', cursive, sans-serit;
+    color: red;
+    font-size: 36 px;
+}
+
+li, p {
+    font-family: 'Amatic SC', cursive, sans-serit;
+    font-size: 24 px;
+    line-height: 2;
+}
+
