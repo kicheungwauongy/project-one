@@ -5,13 +5,11 @@ body {
 h1, h2, h3 {
     font-family: 'Sue Ellen Francisco', cursive, sans-serit;
     color: red;
-    font-size: 12 px;
 }
 
 li, p {
     font-family: 'Amatic SC', cursive, sans-serit;
     color: white;
-    font-size: 16 px;
     line-height: 2;
 }
 
