@@ -3,12 +3,13 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: 'Lobster', cursive, sans-serit;
+    font-family: Lobster, cursive, sans-serit;
+    font-size: 48px;
     color: red;
 }
 
 li, p {
-    font-family: 'Pacifico', cursive, sans-serit;
+    font-family: Pacifico, cursive, sans-serit;
     color: white;
     line-height: 2;
 }
