@@ -19,7 +19,7 @@ body {
 .fancy {
     display: inline-block;
     width: 500px;
-    margin: 20px auto;
+    margin: 0 auto;
     padding: 50px;
     border: solid blue 10px;
 }
