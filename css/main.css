@@ -1,14 +1,16 @@
 body {
-    background-image: url(https://winningwp.com/wp-content/uploads/2018/05/what-is-html.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
+    background-color: rgb(152,251,152);
 }
 
 h1 {
+    color: Yellow;
     font-family: Lobster, cursive, sans-serit;
     font-size: 48px;
-    color: Yellow;
     margin: auto;
+    text-align: center;
+    background-image: url(https://winningwp.com/wp-content/uploads/2018/05/what-is-html.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
 }
 
 h3 {
