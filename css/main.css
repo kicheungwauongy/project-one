@@ -18,6 +18,7 @@ body {
 
 .fancy {
     display: inline-block;
+    vertical-align: middle;
     width: 500px;
     margin: 0 auto;
     padding: 50px;
