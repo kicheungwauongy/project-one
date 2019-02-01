@@ -2,11 +2,20 @@ h1 {
     font-family: Lobster, cursive, sans-serit;
     font-size: 48px;
     color: Yellow;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 h3 {
     font-family: Lobster, cursive, sans-serit;
     color: red;
+}
+
+.fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
 }
 
 li, p {
