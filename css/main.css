@@ -1,19 +1,18 @@
 h1 {
-    background-image: url(http://www.technowalkers.com/wp-content/uploads/2017/10/html.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-h1, h2, h3 {
     font-family: Lobster, cursive, sans-serit;
     font-size: 48px;
+    color: Yellow;
+}
+
+h3 {
+    font-family: Lobster, cursive, sans-serit;
+    font-size: 24px;
     color: red;
 }
 
 li, p {
     font-family: Pacifico, cursive, sans-serit;
-    color: white;
+    color: black;
     line-height: 2;
 }
 
